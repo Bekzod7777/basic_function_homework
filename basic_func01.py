@@ -1,6 +1,6 @@
 # Create a function called main.
 def main():
      return 0
-x=main()
+a=main()
 # Return the value 0
-print(x) 
+print(a)
