@@ -1,4 +1,4 @@
 # Create a function called main.
-def main():
-    return str
+def main(a):
+    return str(a)
 # Return the value str type.
