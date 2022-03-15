@@ -1,4 +1,4 @@
 # Create a function called main.
 def main():
-    return int
+    return "1"
 # Return the value integer type.
