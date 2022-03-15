@@ -1,4 +1,4 @@
 # Create a function called main.
 def main():
-    return float
+    return 1.2
 # Return the value float type.
